@@ -1,0 +1,324 @@
+{
+  "version": "0.1",
+  "site": {
+    "name": "Genetic Diversity Trust",
+    "tagline": "Preserving genetic diversity for a sustainable future",
+    "logo": "/data/images/logo.jpg",
+    "contact": {
+      "phone": "+250 782 555 390",
+      "email": "hrichard86@yahoo.fr",
+      "address": {
+        "poBox": "P.O. Box 1948 Kigali",
+        "street": "Kigali KK89"
+      },
+      "hours": {
+        "weekdays": "Mon-Fri: 10am-5pm",
+        "saturday": "Sat: 1pm-5pm"
+      }
+    }
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "About", "href": "/about" },
+    { "label": "Services", "href": "/services" },
+    { "label": "Research", "href": "/research" },
+    { "label": "Partners", "href": "/partners" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "pages": {
+    "home": {
+      "hero": {
+        "title": "Preserving Our Genetic Heritage",
+        "subtitle": "Join us in our mission to protect the rich diversity of animal breeds for the sustainability of agriculture and ecosystems.",
+        "description": "Discover how our cutting-edge research is making a difference.",
+        "cta": {
+          "label": "Learn More",
+          "href": "/about"
+        },
+        "backgroundImage": "/data/images/home-hero-background.jpg"
+      },
+      "mission": {
+        "badge": "Core Mission and Vision",
+        "title": "Where Purpose Meets Possibility",
+        "subtitle": "Fundamental principles that guide every decision, every project and every partnership we forge",
+        "vision": {
+          "title": "Future We Envision",
+          "content": "To foster a world where rich diversity of animal breeds is recognized, cherished, and preserved, ensuring a sustainable future for agriculture, ecosystems, and cultural heritage."
+        },
+        "mission": {
+          "title": "Action We Take",
+          "content": "To conserve and promote the genetic diversity of animal breeds by engaging communities, advocating for sustainable practices, and conducting scientific research and education programs."
+        }
+      },
+      "values": {
+        "badge": "Our Values",
+        "title": "The values that shape our mission and actions",
+        "items": [
+          {
+            "number": "01",
+            "title": "Conservation Efforts",
+            "description": "We implement various conservation programs aimed at protecting endangered animal breeds and their habitats, ensuring their survival for future generations."
+          },
+          {
+            "number": "02",
+            "title": "Education and Outreach",
+            "description": "Our organization actively engages in educational initiatives that inform the public about the importance of genetic diversity and the role it plays in sustainable agriculture."
+          },
+          {
+            "number": "03",
+            "title": "Research and Collaboration",
+            "description": "We conduct and support research projects focused on understanding genetic diversity, collaborating with academic institutions and other organizations to share knowledge and best practices."
+          }
+        ]
+      },
+      "services": {
+        "badge": "Our Services",
+        "title": "Conservation in Action",
+        "subtitle": "Empowering initiatives to protect our planet's biodiversity.",
+        "items": [
+          {
+            "icon": "Dog",
+            "title": "Conservation Efforts",
+            "description": "We implement various conservation programs aimed at protecting endangered animal breeds and their habitats, ensuring their survival for future generations."
+          },
+          {
+            "icon": "BookOpenText",
+            "title": "Education and Outreach",
+            "description": "Our organization actively engages in educational initiatives that inform the public about the importance of genetic diversity and the role it plays in sustainable agriculture."
+          },
+          {
+            "icon": "Search",
+            "title": "Research and Collaboration",
+            "description": "We conduct and support research projects focused on understanding genetic diversity, collaborating with academic institutions and other organizations to share knowledge and best practices."
+          }
+        ]
+      },
+      "insights": {
+        "badge": "Insights and Updates",
+        "title": "Latest News and Research",
+        "subtitle": "Stay informed about our latest activities, research findings, and initiatives",
+        "items": [
+          {
+            "image": "/data/images/revitalizing-heritage-breeds.jpg",
+            "title": "Revitalizing Heritage Breeds",
+            "category": "Conservation Initiative",
+            "description": "Our project focuses on the revival of endangered heritage breeds, which play a crucial role in maintaining genetic diversity. By collaborating with local farmers and breed associations, we identify at-risk breeds and provide resources and support for their preservation.",
+            "link": "/services"
+          },
+          {
+            "image": "/data/images/restoration-ecosystem-balance.png",
+            "title": "Restoration of Ecosystem Balance",
+            "category": "Environmental Initiative",
+            "description": "In this initiative, we work to restore ecosystems disrupted by the loss of genetic diversity. By reintroducing native breeds and species into their natural habitats, we help to rebuild the balance that is vital for healthy ecosystems.",
+            "link": "/services"
+          },
+          {
+            "image": "/data/images/global-partnerships-diversity.jpg",
+            "title": "Global Partnerships for Diversity",
+            "category": "International Collaboration",
+            "description": "We have established partnerships with international organizations dedicated to preserving genetic diversity worldwide. Through these collaborations, we share knowledge, resources, and best practices to strengthen our conservation efforts.",
+            "link": "/partners"
+          },
+          {
+            "image": "/data/images/cultural-significance-animal-breeds.jpg",
+            "title": "The Cultural Significance of Animal Breeds",
+            "category": "Research Publication",
+            "description": "This research paper explores the cultural heritage associated with various animal breeds across different regions. It emphasizes the connection between genetic diversity and cultural identity, illustrating how traditional practices are intertwined with preservation.",
+            "link": "/research"
+          }
+        ]
+      },
+      "research": {
+        "badge": "Research Impact",
+        "title": "Our Scientific Contributions",
+        "subtitle": "Our research has led to the discovery of new species, improved conservation techniques, and a deeper understanding of genetic diversity's role in ecosystem resilience.",
+        "image": "/data/images/scientific-contribution.jpg",
+        "stats": [
+          {
+            "number": "200+",
+            "description": "Published research papers in leading scientific journals"
+          },
+          {
+            "number": "50+",
+            "description": "Conservation projects implemented across 30 countries"
+          },
+          {
+            "number": "10,000+",
+            "description": "Species with genetic material preserved in our biobanks"
+          }
+        ]
+      },
+      "partners": {
+        "title": "Our Global Partners",
+        "subtitle": "We collaborate with leading research institutions, conservation organizations, and governments worldwide.",
+        "items": [
+          {
+            "name": "The Global Canopy Programme",
+            "location": "United Kingdom",
+            "logo": "globalCanopyProgramme",
+            "description": "Focuses on rainforest conservation and biodiversity, including efforts related to endangered livestock species and their habitats."
+          },
+          {
+            "name": "International Livestock Research Institute",
+            "location": "Kenya/Ethiopia",
+            "logo": "ilri",
+            "description": "A research organization that works to improve food security and reduce poverty in developing countries by enhancing livestock systems and the genetic resources of animals."
+          },
+          {
+            "name": "Biodiversity International",
+            "location": "Italy",
+            "logo": "biodiversityInternational",
+            "description": "Works on the conservation and use of agricultural biodiversity, including animal genetic resources for food and agriculture as part of a sustainable food system."
+          },
+          {
+            "name": "Food and Agriculture Organization",
+            "location": "International",
+            "logo": "fao",
+            "description": "Although it's a part of the United Nations, it has specific programs and initiatives focused on the conservation of animal genetic resources globally, including the Global Strategy for the Management of Farm Animal Genetic Resources."
+          },
+          {
+            "name": "Rare Breeds Survival Trust",
+            "location": "United Kingdom",
+            "logo": "rbst",
+            "description": "Focused on the conservation of rare and endangered farm animal breeds in the UK, the organization works to promote awareness and safeguard traditional livestock."
+          },
+          {
+            "name": "The Livestock Conservancy",
+            "location": "United States",
+            "logo": "livestockConservancy",
+            "description": "Dedicated to the conservation of endangered breeds of livestock and poultry, this organization provides educational resources and support for heritage livestock breeds."
+          },
+          {
+            "name": "World Wildlife Fund",
+            "location": "International",
+            "logo": "wwf",
+            "description": "While primarily focused on wildlife conservation, WWF also works on preserving livestock biodiversity and integrating it into broader conservation strategies."
+          },
+          {
+            "name": "European Conservation Agriculture Federation",
+            "location": "Europe",
+            "logo": "ecaf",
+            "description": "Focuses on promoting sustainable agricultural practices that include the conservation of animal genetic resources and biodiversity."
+          },
+          {
+            "name": "Native Seed/SEARCH",
+            "location": "United States",
+            "logo": "nativeSeedSearch",
+            "description": "While primarily focused on plant biodiversity, this organization also emphasizes the conservation of domesticated animal breeds and their genetic diversity through sustainable agriculture practices."
+          }
+        ]
+      },
+      "contact": {
+        "badge": "Get Involved",
+        "title": "Join Our Mission",
+        "subtitle": "Whether you're a scientist, conservationist, donor, or concerned citizen, there are many ways to support our work.",
+        "form": {
+          "title": "Contact Us",
+          "description": "Have questions about our work or how you can get involved? Reach out to our team.",
+          "fields": [
+            { "id": "first-name", "label": "First name", "type": "text", "placeholder": "Enter your first name" },
+            { "id": "last-name", "label": "Last name", "type": "text", "placeholder": "Enter your last name" },
+            { "id": "email", "label": "Email", "type": "email", "placeholder": "Enter your email" },
+            { "id": "message", "label": "Message", "type": "textarea", "placeholder": "Enter your message" }
+          ],
+          "submitButton": "Send Message"
+        },
+        "support": {
+          "title": "Ways to Support",
+          "description": "There are many ways you can contribute to our mission of preserving genetic biodiversity.",
+          "items": [
+            {
+              "icon": "Leaf",
+              "title": "Donate",
+              "description": "Your financial support helps fund our conservation projects and research initiatives."
+            },
+            {
+              "icon": "Globe",
+              "title": "Volunteer",
+              "description": "Join our field expeditions or help with community outreach and education programs."
+            },
+            {
+              "icon": "Database",
+              "title": "Partner with Us",
+              "description": "Explore collaboration opportunities for research institutions, conservation organizations, and businesses."
+            }
+          ]
+        }
+      }
+    },
+    "about": {
+      "hero": {
+        "title": "About Us",
+        "subtitle": "Discover our story, our journey, and the dedicated team behind the Genetic Biodiversity Trust",
+        "backgroundImage": "/data/images/about-banner.jpg"
+      },
+      "foundation": {
+        "badge": "Our Foundation",
+        "title": "The Birth of Genetic Diversity Trust",
+        "subtitle": "A science-based, non-governmental organization",
+        "content": "Founded in 2024, the Genetic Diversity Trust emerged from a growing recognition of the need to preserve the rich tapestry of animal breeds that contribute to our agricultural heritage. Our founders, a dedicated group of scientists and conservationists, envisioned a platform where genetic diversity could be championed and protected for future generations. The early days saw passionate discussions and strategic planning that set the foundation for our future initiatives."
+      },
+      "milestones": {
+        "badge": "Our Journey",
+        "items": [
+          {
+            "title": "Key Milestones in Our Evolution",
+            "content": "Since our establishment, the Genetic Diversity Trust has reached several significant milestones, including the launch of our first conservation project in 2022, aimed at preserving endangered breeds. We also initiated partnerships with local farms and research institutions, which have enabled us to expand our outreach and educational efforts. Each milestone reinforces our commitment to fostering a world rich in genetic diversity, ensuring sustainable agricultural practices."
+          },
+          {
+            "title": "Community Engagement",
+            "category": "Local Initiatives",
+            "content": "Our local outreach programs have gained momentum in recent months. By working closely with farmers and communities, we are fostering a deeper understanding of the significance of preserving local breeds. These initiatives not only promote genetic diversity but also strengthen community ties and cultural heritage."
+          },
+          {
+            "title": "Recent Collaborations",
+            "category": "A Global Perspective",
+            "content": "We are excited to announce our new partnerships with several international organizations. These collaborations aim to enhance our efforts in preserving genetic diversity across borders. With combined resources and expertise, we hope to implement more effective strategies that will impact communities worldwide."
+          }
+        ]
+      },
+      "team": {
+        "badge": "Our Dedicated Team",
+        "title": "Meet the passionate individuals driving our mission",
+        "members": [
+          {
+            "name": "Dr. Richard Habimana",
+            "role": "Executive Director",
+            "image": "/data/images/team/richard-habimana.jpg",
+            "description": "With over 10 years of experience in biodiversity management and conservation, Dr. Habimana leads our strategic initiatives and oversees all projects. Her expertise in genetic research and passion for sustainable agriculture guide our organization towards achieving its goals."
+          },
+          {
+            "name": "Dr. Christian Keambou Tiambo",
+            "role": "Research Scientist",
+            "image": "/data/images/team/christian-keambou.jpg",
+            "description": "Christian specializes in animal genetics and plays a vital role in our research programs. His innovative approaches to studying genetic diversity contribute significantly to our understanding of breed preservation and ecosystem health."
+          },
+          {
+            "name": "Dr. Hirwa Claire D'Andre ",
+            "role": "Community Engagement Manager",
+            "image": "/data/images/team/hirwa-claire.jpg",
+            "description": "Hirwa is responsible for building partnerships with local communities and stakeholders. Her experience in outreach and education helps us connect with diverse audiences, fostering a greater understanding of the importance of genetic diversity."
+          }
+        ]
+      },
+      "principles": {
+        "badge": "Guiding Principles",
+        "title": "The values that shape our mission and actions",
+        "items": [
+          {
+            "title": "Commitment to Conservation",
+            "description": "At the heart of the Genetic Diversity Trust lies our unwavering commitment to conservation. We believe that preserving the genetic diversity of animal breeds is essential for sustainable agriculture and the health of ecosystems. This commitment drives our initiatives and shapes our strategies, ensuring we are effective stewards of biodiversity."
+          },
+          {
+            "title": "Collaboration and Inclusivity",
+            "description": "We value collaboration and inclusivity, recognizing that diverse perspectives strengthen our mission. By working with farmers, researchers, and communities, we create a holistic approach to conservation. Our inclusive practices ensure that all voices are heard, fostering a sense of shared responsibility for our genetic heritage."
+          },
+          {
+            "title": "Education and Awareness",
+            "description": "Education is a cornerstone of our values. We strive to raise awareness about the importance of genetic diversity and its role in sustainable agriculture. Through workshops, seminars, and outreach programs, we empower individuals and communities to take action in preserving the rich variety of animal breeds that enrich our lives."
+          }
+        ]
+      }
+    }
+  }
+}

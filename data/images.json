@@ -1,0 +1,60 @@
+{
+  "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.JPG-LldOJN28FpU0f4SM4PE0u0ucqjFNwo.jpeg",
+  "home": {
+    "heroBackground": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kigali_Golf_Club.jpg/1920px-Kigali_Golf_Club.jpg",
+    "scientificContribution": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1602610207183-cc352e118869",
+    "insights": {
+      "revitalizingBreeds": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Revitalizing%20Heritage%20Breeds.jpg-3QaWJLvlfFIpF1BdwR5vtSX45zi7B6.jpeg",
+      "ecosystemBalance": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Restoration%20of%20Ecosystem%20Balance.png-C1kpJJGJ7EbVJWMCJBupvGGCQvKf8v.webp",
+      "globalPartnerships": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Global%20Partnerships%20for%20Diversity.jpg-3dPfDDSfWDRcE8QqgUflayYjDgkOaG.jpeg",
+      "culturalSignificance": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/The%20Cultural%20Significance%20of%20Animal%20Breeds.jpg-uRDsLysymKgE8sSnGKvQKyRdOiozzh.jpeg"
+    }
+  },
+  "about": {
+    "banner": "https://wallpapercrafter.com/th8001/531572-green-leaf-plant-drops-leaves-Australia-nature.jpg",
+    "team": {
+      "richardhabimana": "https://www.egerton.ac.ke/images/egerton_university/phd_graduands/habimana,%20richard.jpg",
+      "christiankeamboutiambo": "https://0.academia-photos.com/14037344/3878551/12314560/s200_christian.keambou_tiambo.jpg",
+      "hirwaclairedandre": "https://i1.rgstatic.net/ii/profile.image/337657906384898-1457515326183_Q512/Hirwa-Claire-Dandre.jpg"
+    }
+  },
+  "services": {
+    "banner": "https://wallpapercrafter.com/th8001/531572-green-leaf-plant-drops-leaves-Australia-nature.jpg",
+    "workshops": {
+      "geneticPreservation": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/GeneticPreservationTechniques-eDQtqKO72GsLIcs97rVi4Tp0xdRz7d.jpeg"
+    },
+    "volunteers": {
+      "fieldResearch": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/FieldResearchAssistant.jpg-yknGN78XcKs87zYiAHgslbAE3Wy8FD.jpeg",
+      "communityOutreach": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/CommunityOutreachCoordinator-ue3FbbaCzsaG9zUJOcmTu4JAgIn4ye.jpeg",
+      "socialMedia": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SocialMediaAdvocate.jpg-NtwgJKZK3TuwhLDa9ww2NQdgz2j1Mj.jpeg"
+    },
+    "testimonials": {
+      "familyJourney": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/A%20Family%27s%20Journey%20with%20Heritage%20Breeds.JPG-bIIu62yIjOAx1ePLoaaxzwsVL6rsow.jpeg",
+      "revivingBreeds": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/RevivingLostBreeds-GKtC2lYMh8TUY7kUKD9twayag3xXqE.jpeg",
+      "communitySuccess": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Community%20Engagement%20Success.JPG-4TwL0finzrZ1vwZdhlFhq6F6Gn5rA1.jpeg"
+    }
+  },
+  "partners": {
+    "banner": "https://wallpapercrafter.com/th8001/531572-green-leaf-plant-drops-leaves-Australia-nature.jpg",
+    "logos": {
+      "globalCanopyProgramme": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/The%20Global%20Canopy%20Programme-bqwJ3ImiloJGEPxTpwH4uReF7GhQES.png",
+      "ilri": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/International%20Livestock%20Research%20Institute-1AlpzZLYE8UcpaQFzd9PQgQd0RAaP3.png",
+      "biodiversityInternational": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Biodiversity%20International.jpg-7sQB7BpAISqg4MDcPt0iTegGelSCd6.jpeg",
+      "fao": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Food%20and%20Agriculture%20Organization-MwQKXgFPb13ekm6U0KdA7QfC14kTZV.png",
+      "rbst": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Rare%20Breeds%20Survival%20Trust-AAdwaaiHucyAkJXXxAableLpqShYzf.png",
+      "livestockConservancy": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/The%20Livestock%20Conservancy-vYjcGpicERvVlG2UUhjdf0JjDmmxFO.png",
+      "wwf": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/World%20Wildlife%20Fund%20%28WWF%29-mgtaZ79In7aEus3xCtJr930dPsmGkr.png",
+      "ecaf": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/European%20Conservation%20Agriculture%20Federation-2p1nXrHrmcCxqs8qBx2ZaRn97r8Zo3.png",
+      "nativeSeedSearch": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Native%20Seed%20SEARCH-3LugpcwyAot1ouRUakV3f1Ngq6I6yX.png"
+    }
+  },
+  "research": {
+    "banner": "https://wallpapercrafter.com/th8001/531572-green-leaf-plant-drops-leaves-Australia-nature.jpg"
+  },
+  "contact": {
+    "banner": "https://wallpapercrafter.com/th8001/531572-green-leaf-plant-drops-leaves-Australia-nature.jpg"
+  },
+  "resources": {
+    "banner": "https://wallpapercrafter.com/th8001/531572-green-leaf-plant-drops-leaves-Australia-nature.jpg"
+  }
+}
