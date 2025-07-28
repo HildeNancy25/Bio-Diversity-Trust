@@ -1,1 +1,2 @@
-# Bio-Diversity-Trust
+# Genetic-Diversity-Trust
+Preserving Our Genetic Heritage
